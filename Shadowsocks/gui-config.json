@@ -1,0 +1,102 @@
+{
+	"configs" : [
+		{
+			"remarks" : "update_2017.07.18",
+			"server" : "104.238.150.222",
+			"server_port" : 666,
+			"server_udp_port" : 0,
+			"password" : "ntdtv.com",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"group" : "alvin9999",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "update_2017.07.18",
+			"server" : "104.160.185.150",
+			"server_port" : 555,
+			"server_udp_port" : 0,
+			"password" : "ntdtv.com",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"group" : "alvin9999",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "update_2017.07.18",
+			"server" : "104.160.185.80",
+			"server_port" : 333,
+			"server_udp_port" : 0,
+			"password" : "ntdtv.com",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"group" : "alvin9999",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},		
+		{
+			"remarks" : "update_2017.07.18",
+			"server" : "107.175.94.126",
+			"server_port" : 6725,
+			"server_udp_port" : 0,
+			"password" : "wujieliulan.com",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "cloudflare.net,azurewebsites.net",
+			"group" : "alvin9999",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 0,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : null,
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 0,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : false,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
