@@ -212,8 +212,8 @@
 		"totalDownloadBytes" : 515976
 	},
 	"64.32.5.186" : {
-		"totalUploadBytes" : 1698511,
-		"totalDownloadBytes" : 78093663
+		"totalUploadBytes" : 2002009,
+		"totalDownloadBytes" : 82120337
 	},
 	"64.32.5.181" : {
 		"totalUploadBytes" : 986628,
@@ -230,5 +230,13 @@
 	"167.99.97.175" : {
 		"totalUploadBytes" : 205336,
 		"totalDownloadBytes" : 14472408
+	},
+	"103.114.161.16" : {
+		"totalUploadBytes" : 1938,
+		"totalDownloadBytes" : 13935
+	},
+	"103.114.162.108" : {
+		"totalUploadBytes" : 95655,
+		"totalDownloadBytes" : 4748889
 	}
 }

@@ -1,8 +1,7 @@
 {
 	"configs" : [
-
 		{
-			"remarks" : "",
+			"remarks" : "update_2018.7.02",
 			"id" : "7FE10FCA1C9DB0715577EF0A57C4319A",
 			"server" : "64.32.5.186",
 			"server_port" : 80,
@@ -18,10 +17,9 @@
 			"enable" : true,
 			"udp_over_tcp" : false
 		},
-		
 		{
-			"remarks" : "",
-			"id" : "7FE10FCA1C9DB0715577EF0A57C4319A",
+			"remarks" : "update_2018.7.02",
+			"id" : "D89C06D834B47BF8DCB32D0187515F1A",
 			"server" : "103.114.162.108",
 			"server_port" : 888,
 			"server_udp_port" : 0,
@@ -36,10 +34,9 @@
 			"enable" : true,
 			"udp_over_tcp" : false
 		},
-		
 		{
-			"remarks" : "",
-			"id" : "7FE10FCA1C9DB0715577EF0A57C4319A",
+			"remarks" : "update_2018.7.02",
+			"id" : "2EDA2CC7768F120F8C2F166DC48926B0",
 			"server" : "103.114.161.16",
 			"server_port" : 9999,
 			"server_udp_port" : 0,
@@ -55,9 +52,9 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 0,
-	"random" : true,
-	"sysProxyMode" : 0,
+	"index" : 1,
+	"random" : false,
+	"sysProxyMode" : 2,
 	"shareOverLan" : false,
 	"localPort" : 1080,
 	"localAuthPassword" : "P1n0Cr1lFjJ52hK-QJar",
