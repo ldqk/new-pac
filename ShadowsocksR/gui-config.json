@@ -1,7 +1,7 @@
 {
 	"configs" : [
 		{
-			"remarks" : "update_2018.7.02",
+			"remarks" : "update_2018.4.28",
 			"id" : "7FE10FCA1C9DB0715577EF0A57C4319A",
 			"server" : "64.32.5.186",
 			"server_port" : 80,
@@ -18,7 +18,7 @@
 			"udp_over_tcp" : false
 		},
 		{
-			"remarks" : "update_2018.7.02",
+			"remarks" : "update_2018.4.28",
 			"id" : "D89C06D834B47BF8DCB32D0187515F1A",
 			"server" : "103.114.162.108",
 			"server_port" : 888,
@@ -35,7 +35,7 @@
 			"udp_over_tcp" : false
 		},
 		{
-			"remarks" : "update_2018.7.02",
+			"remarks" : "update_2018.4.28",
 			"id" : "2EDA2CC7768F120F8C2F166DC48926B0",
 			"server" : "103.114.161.16",
 			"server_port" : 9999,
@@ -52,7 +52,7 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 1,
+	"index" : 2,
 	"random" : false,
 	"sysProxyMode" : 2,
 	"shareOverLan" : false,

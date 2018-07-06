@@ -232,11 +232,11 @@
 		"totalDownloadBytes" : 14472408
 	},
 	"103.114.161.16" : {
-		"totalUploadBytes" : 1938,
-		"totalDownloadBytes" : 13935
+		"totalUploadBytes" : 299087,
+		"totalDownloadBytes" : 107221853
 	},
 	"103.114.162.108" : {
-		"totalUploadBytes" : 95655,
-		"totalDownloadBytes" : 4748889
+		"totalUploadBytes" : 3549712,
+		"totalDownloadBytes" : 222597164
 	}
 }
