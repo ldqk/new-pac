@@ -232,11 +232,15 @@
 		"totalDownloadBytes" : 14472408
 	},
 	"103.114.161.16" : {
-		"totalUploadBytes" : 299087,
-		"totalDownloadBytes" : 107221853
+		"totalUploadBytes" : 948108,
+		"totalDownloadBytes" : 223936522
 	},
 	"103.114.162.108" : {
 		"totalUploadBytes" : 3549712,
 		"totalDownloadBytes" : 222597164
+	},
+	"jp01.1ss.bid" : {
+		"totalUploadBytes" : 316502,
+		"totalDownloadBytes" : 8916733
 	}
 }
