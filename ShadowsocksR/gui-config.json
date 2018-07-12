@@ -67,9 +67,26 @@
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "2BC4DF49D2A7C0384FDDC51004AF95D4",
+			"server" : "jp02.1ss.bid",
+			"server_port" : 12152,
+			"server_udp_port" : 0,
+			"password" : "f55.fun-18474029",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
 		}
 	],
-	"index" : 3,
+	"index" : 2,
 	"random" : false,
 	"sysProxyMode" : 2,
 	"shareOverLan" : false,
