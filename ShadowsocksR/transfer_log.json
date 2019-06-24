@@ -256,7 +256,115 @@
 		"totalDownloadBytes" : 791
 	},
 	"ssr-ipv4.ji-G1H1-00-i07-443.ngcssddns.com" : {
-		"totalUploadBytes" : 135296,
-		"totalDownloadBytes" : 4527429
+		"totalUploadBytes" : 164426,
+		"totalDownloadBytes" : 4554121
+	},
+	"104.167.108.88" : {
+		"totalUploadBytes" : 2716,
+		"totalDownloadBytes" : 129
+	},
+	"50.116.2.131" : {
+		"totalUploadBytes" : 311,
+		"totalDownloadBytes" : 0
+	},
+	"45.79.98.239" : {
+		"totalUploadBytes" : 293,
+		"totalDownloadBytes" : 0
+	},
+	"172.105.113.18" : {
+		"totalUploadBytes" : 5097,
+		"totalDownloadBytes" : 22550
+	},
+	"213.168.249.12" : {
+		"totalUploadBytes" : 163,
+		"totalDownloadBytes" : 0
+	},
+	"34.208.32.85" : {
+		"totalUploadBytes" : 2788,
+		"totalDownloadBytes" : 0
+	},
+	"81.90.190.5" : {
+		"totalUploadBytes" : 6240,
+		"totalDownloadBytes" : 225262
+	},
+	"45.79.105.116" : {
+		"totalUploadBytes" : 2866,
+		"totalDownloadBytes" : 18080
+	},
+	"45.79.91.64" : {
+		"totalUploadBytes" : 674,
+		"totalDownloadBytes" : 8449
+	},
+	"172.104.93.246" : {
+		"totalUploadBytes" : 6706,
+		"totalDownloadBytes" : 1123504
+	},
+	"45.79.107.223" : {
+		"totalUploadBytes" : 615,
+		"totalDownloadBytes" : 8447
+	},
+	"23.239.12.251" : {
+		"totalUploadBytes" : 1419,
+		"totalDownloadBytes" : 2892
+	},
+	"139.162.84.243" : {
+		"totalUploadBytes" : 1465,
+		"totalDownloadBytes" : 1967
+	},
+	"45.66.134.158" : {
+		"totalUploadBytes" : 2264,
+		"totalDownloadBytes" : 10688
+	},
+	"172.104.105.178" : {
+		"totalUploadBytes" : 16815,
+		"totalDownloadBytes" : 76151
+	},
+	"172.104.79.36" : {
+		"totalUploadBytes" : 1991,
+		"totalDownloadBytes" : 63126
+	},
+	"45.33.65.190" : {
+		"totalUploadBytes" : 1932,
+		"totalDownloadBytes" : 1897
+	},
+	"45.11.0.38" : {
+		"totalUploadBytes" : 1617,
+		"totalDownloadBytes" : 0
+	},
+	"157.230.252.252" : {
+		"totalUploadBytes" : 676,
+		"totalDownloadBytes" : 792
+	},
+	"freedom.2226999.xyz" : {
+		"totalUploadBytes" : 2326,
+		"totalDownloadBytes" : 1480
+	},
+	"23.92.18.28" : {
+		"totalUploadBytes" : 676,
+		"totalDownloadBytes" : 792
+	},
+	"91.203.193.147" : {
+		"totalUploadBytes" : 2237,
+		"totalDownloadBytes" : 1677
+	},
+	"139.162.25.148" : {
+		"totalUploadBytes" : 95948,
+		"totalDownloadBytes" : 2208889
+	},
+	"45.33.49.239" : {
+		"totalUploadBytes" : 1238,
+		"totalDownloadBytes" : 1691071
+	},
+	"45.79.79.37" : {
+		"totalUploadBytes" : 608,
+		"totalDownloadBytes" : 5808
+	},
+	"hkt26.securitytactics.com" : {
+		"totalUploadBytes" : 75662,
+		"totalDownloadBytes" : 6559129
+	},
+	"54.255.240.122" : {
+		"totalUploadBytes" : 2188,
+		"totalDownloadBytes" : 0
 	}
 }
