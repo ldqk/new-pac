@@ -4,7 +4,7 @@
 [官网页面](http://yd.sjlhcs.com/share.html?channel=tg-10003)
 
 ### 极游，共享机场，低至3块钱/月·100GB
-[官网页面](https://dwz.cn/ACC2dda1)
+[官网页面](https://dwz.cn/JXyFiztL)
 
 ### 墙裂go，共享机场，低至6元/月·50GB
 [官网页面](https://dwz.cn/Z3rDuTXG)
