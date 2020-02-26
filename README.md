@@ -4,3 +4,6 @@
 ### 公益机场——速鹰666
 [官网页面](http://suo.im/5xmks9)
 [备用地址](http://suo.im/6hEybI)
+
+### 几鸡学习助理
+[https://github.com/NGC-HenryLee/NGC.SS.JJ/](https://github.com/NGC-HenryLee/NGC.SS.JJ/)
