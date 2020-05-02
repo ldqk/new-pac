@@ -13,3 +13,5 @@
 
 ### 几鸡学习助理，免费节点
 [https://github.com/NGC-HenryLee/NGC.SS.JJ/](https://github.com/NGC-HenryLee/NGC.SS.JJ/)
+
+`任何机场都无法100%保证将来提供的服务稳定性，建议按月购买，请不要直接包年！`
