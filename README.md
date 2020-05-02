@@ -1,15 +1,12 @@
 ## 一些靠谱的付费机场推荐
-### 墙裂go，共享机场，低至6元/月·50GB
-[官网页面](http://suo.im/64Tvnq)
-
 ### 公益机场——优云666
-[官网页面](http://suo.im/6rwNak)
+[官网页面](http://suo.im/6rwNak)  
+备用：  
+[酷鹰666](http://suo.im/64l9Vs)  
+[速鹰666](http://suo.im/5Ix3aX)  
 
 ### re0x小鸡，低至5元
 [官网页面](http://suo.im/6e2dJb)
-
-### AleSocks网络加速器
-[官网页面](https://masuit.alesocks.co/)
 
 ### 几鸡学习助理，免费节点
 [https://github.com/NGC-HenryLee/NGC.SS.JJ/](https://github.com/NGC-HenryLee/NGC.SS.JJ/)
