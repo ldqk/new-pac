@@ -3,10 +3,10 @@
 [官网页面](https://masuit.com/1dvIHm)  
 备用：  
 [速鹰666](https://masuit.com/sy)  
+[筋斗云](https://masuit.com/2cnXE8)  
 
-### 墙裂，低至6元/月，只是不太稳定
-适合轻量使用。
-[官网页面](https://go.qianglie.cc/aff.php?aff=597)  
+### 和上面同一家的面向高端用户的机场，支持Trojan协议
+[极速Max](https://masuit.com/2cYr5H)  
 
 ### re0x小鸡，小众机场，不拥挤，低至10元/月·50GB
 [官网页面](https://masuit.com/fNvZC)  
