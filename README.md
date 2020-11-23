@@ -2,7 +2,6 @@
 ### 公益机场——优云666，IPLC专线大流量机场，低至9元/月大流量
 [官网页面](https://masuit.com/1dvIHm)  
 备用：  
-[速鹰666](https://masuit.com/sy)  
 [筋斗云](https://masuit.com/2cnXE8)  
 
 ### 和上面同一家的面向高端用户的机场，支持Trojan协议
